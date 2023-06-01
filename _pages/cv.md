@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, University of Houston, 2021
-* B.S. in Mathematics, University of Houston, 2016
-* B.S. in Chemical Engineering, University of Houston, 2016
+* B.S. in Mathematics, University of Nebraska-Lincoln, 2016
+* B.S. in Chemical Engineering, University of Nebraska-Lincoln, 2016
 
 Work experience
 ======
