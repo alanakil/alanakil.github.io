@@ -51,12 +51,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* President, Treasurer, and Secretary over several years for the [UH AMS Graduate Chapter](https://www.math.uh.edu/ams/).
+* Secretary of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2020 - May 2021
+* President of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2019 - August 2020
+* Treasurer of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2017 - August 2019
+* Member of American Mathematical Society (AMS) and Society for Industrial and Applied Mathematics (SIAM)
+* Graduate Tuition Fellowship; August 2016 – May 2021
