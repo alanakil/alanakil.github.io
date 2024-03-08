@@ -43,13 +43,15 @@ tions of local networks in visual cortex of monkeys.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+    {% for post in sorted_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
+    {% for post in sorted_talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
