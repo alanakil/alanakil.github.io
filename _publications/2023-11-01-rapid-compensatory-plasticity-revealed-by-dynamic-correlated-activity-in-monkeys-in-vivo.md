@@ -8,7 +8,3 @@ venue: 'Nature Neuroscience'
 paperurl: 'https://www.nature.com/articles/s41593-023-01446-w'
 citation: 'Ariana R. Andrei, Alan E. Akil, Natasha Kharas, Robert Rosenbaum, Krešimir Josić & Valentin Dragoi. (2023). &quot;Rapid Compensatory Plasticity Revealed by Dynamic Correlated Activity in Monkeys in vivo.&quot; <i>Nature Neuroscience</i>. 26(11), 1960-1969.'
 ---
-
-[Download paper here](https://www.nature.com/articles/s41593-023-01446-w)
-
-Recommended citation: Ariana R. Andrei, Alan E. Akil, Natasha Kharas, Robert Rosenbaum, Krešimir Josić & Valentin Dragoi. (2023). "Rapid Compensatory Plasticity Revealed by Dynamic Correlated Activity in Monkeys in vivo." <i>Nature Neuroscience</i>. 26(11), 1960-1969.
