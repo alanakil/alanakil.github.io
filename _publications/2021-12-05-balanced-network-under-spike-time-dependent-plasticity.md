@@ -8,7 +8,3 @@ venue: 'PLOS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008958'
 citation: 'Alan Eric Akil, Robert Rosenbaum, Krešimir Josić. (2021). &quot;Balanced Networks under Spike–Time Dependent Plasticity.&quot; <i>PLOS Computational Biology</i>. 17(5).'
 ---
-
-[Download paper here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008958)
-
-Recommended citation: Alan Eric Akil, Robert Rosenbaum, Krešimir Josić. (2021). "Balanced Networks under Spike–Time Dependent Plasticity." <i>PLOS Computational Biology</i>. 17(5).
