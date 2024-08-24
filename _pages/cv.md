@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Houston, 2021
+* Ph.D. in Mathematics, University of Houston, 2021
   * Advisor: [Krešimir Josić](https://www.math.uh.edu/~josic/)
   * Dissertation: ["The Dynamics of Balanced Neural Networks Under Spike-Timing Dependent Plasticity"](https://uh-ir.tdl.org/handle/10657/8131)
 * B.S. in Mathematics, University of Nebraska-Lincoln, 2016
@@ -20,7 +20,9 @@ Education
 Work experience
 ======
 
-* Data Scientist I, Project Management Institute; July 2021 – Present
+* AI/ML Engineer II, Project Management Institute; April 2024 – Present
+
+* Data Scientist I, Project Management Institute; July 2021 – March 2024
   * Upgraded cohort Customer Lifetime Value (CLV) model to a probabilistic model that predicts individual CLV using survival functions and historic transaction data. Uncovered similar lifetime patterns across segments.
   * Led a cross-functional team of data scientists, engineers, and business stakeholders to equip [Career Navigator](https://navigator.pmi.org) with three recommendation systems to guide users in their careers.
   * Predicted users' visit intent and likelihood to convert using web activity. Uncovered insightful behaviors and interests that supported Customer Segmentation.
