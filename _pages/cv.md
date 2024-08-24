@@ -21,6 +21,7 @@ Work experience
 ======
 
 * AI/ML Engineer II, Project Management Institute; April 2024 – Present
+  * Technical leadership for PMI's [Infinity](https://infinity.pmi.org/) portfolio of AI-powered products.
 
 * Data Scientist I, Project Management Institute; July 2021 – March 2024
   * Upgraded cohort Customer Lifetime Value (CLV) model to a probabilistic model that predicts individual CLV using survival functions and historic transaction data. Uncovered similar lifetime patterns across segments.
