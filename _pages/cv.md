@@ -19,8 +19,10 @@ Education
 
 Work experience
 ======
+* Lead AI/ML Engineer, Project Management Institute; February 2025 – Present
+  * Technical leadership for PMI's [Infinity](https://infinity.pmi.org/) portfolio of AI-powered products.
 
-* AI/ML Engineer II, Project Management Institute; April 2024 – Present
+* AI/ML Engineer II, Project Management Institute; April 2024 – January 2025
   * Technical leadership for PMI's [Infinity](https://infinity.pmi.org/) portfolio of AI-powered products.
 
 * Data Scientist I, Project Management Institute; July 2021 – March 2024

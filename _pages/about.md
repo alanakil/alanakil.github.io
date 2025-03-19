@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alan Akil and I am a Senior AI/ML Engineer at [Project Management Institute](https://www.pmi.org/) (PMI). 
+My name is Alan Akil and I am a Lead AI/ML Engineer at [Project Management Institute](https://www.pmi.org/) (PMI). 
 
 I'm a mathematician with extensive experience across several scientific fields: Chemical Engineering, Neuroscience, Applied and Pure Mathematics, and Data Science. 
 
@@ -17,6 +17,6 @@ My prolific time in Josić lab is evidenced by three research articles published
 
 As part of my training in Neuroscience, I had also taken a keen interest in Artificial Intelligence and worked on several problems across Machine Learning, Reinforcement Learning, and Deep Learning. This experience gave me the necessary tools to dive into the field of Data Science.
 
-In 2021, I joined [PMI](https://www.pmi.org/) as a Data Scientist and worked on several projects including Customer Lifetime Value, Web Analytics, and Recommendation Systems. 
+In 2021, I joined [PMI](https://www.pmi.org/) as a Data Scientist and worked on several projects including Customer Lifetime Value, Web Analytics, and user-facing Recommendation Systems. 
 
-In early 2024, I transitioned to the role of Senior AI/ML Engineer at PMI, where I now provide technical leadership for the [Infinity](https://infinity.pmi.org/) portfolio, driving innovation across PMI's AI products.
+Currently, I am a Lead AI/ML Engineer at PMI, where I provide technical leadership for the [Infinity](https://infinity.pmi.org/) portfolio, driving innovation across PMI's AI products.
