@@ -20,21 +20,24 @@ Education
 Work experience
 ======
 * Lead AI/ML Engineer, Project Management Institute; February 2025 – Present
-  * Technical leadership for PMI's [Infinity](https://infinity.pmi.org/) portfolio of AI-powered products.
 
 * AI/ML Engineer II, Project Management Institute; April 2024 – January 2025
-  * Technical leadership for PMI's [Infinity](https://infinity.pmi.org/) portfolio of AI-powered products.
+  
+  _Bridging research and application in customer-facing AI systems_
 
 * Data Scientist I, Project Management Institute; July 2021 – March 2024
-  * Upgraded cohort Customer Lifetime Value (CLV) model to a probabilistic model that predicts individual CLV using survival functions and historic transaction data. Uncovered similar lifetime patterns across segments.
-  * Led a cross-functional team of data scientists, engineers, and business stakeholders to equip [Career Navigator](https://navigator.pmi.org) with three recommendation systems to guide users in their careers.
-  * Predicted users' visit intent and likelihood to convert using web activity. Uncovered insightful behaviors and interests that supported Customer Segmentation.
+  
+  _Development of AI systems for customer insights_
 
-* Graduate Research and Teaching Assistant, University of Houston (Houston, TX); August 2016 – May 2021
-  * Developed theory of plasticity in balanced neural networks backed by large-scale simulations of networks of 10,000+ neurons in MATLAB and Python. All code is publicly accessible. Python–packaged customizable, sample network as a pip–installable library for public use (Link to [package](https://github.com/alanakil/PlasticBalancedNetsPackage)).
-  * Simulated balanced networks under inhibitory plasticity to explain optogenetically–evoked changes in correla-
-tions of local networks in visual cortex of monkeys.
-  * Taught recitation sections of various math undergraduate-level courses of 50+ students each. Led and supervised team of 7 undergraduate students to grade udnergraduate-level math homework and exams.
+* Graduate Research and Teaching Assistant, University of Houston (Houston, TX);  2016 – 2021
+
+    _Theoretical foundations of learning in neural networks_
+
+  * **Neural Network Learning Theory:** Developed mathematical framework connecting synaptic plasticity rules to emergent network dynamics. Proved conditions under which learning preserves network balance in recurrent architectures. Theory validated through large-scale simulations.
+
+  * **Computational Neuroscience:** Applied theoretical models to explain experimental observations of rapid plasticity in primate visual cortex. Demonstrated how inhibitory learning mechanisms maintain homeostasis during network perturbations.
+
+  * **Open Source Research Tools:** Created [Python package]{https://github.com/alanakil/PlasticBalancedNetsPackage} implementing theoretical predictions, enabling reproducible research in plastic neural networks. 
   
 
 <!-- Skills
@@ -68,8 +71,8 @@ Talks
   
 Service and leadership
 ======
-* Secretary of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2020 - May 2021
-* President of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2019 - August 2020
-* Treasurer of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); August 2017 - August 2019
+* Secretary of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); 2020 - 2021
+* President of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); 2019 - 2020
+* Treasurer of [UH American Mathematical Society Graduate Chapter](https://www.math.uh.edu/ams/); 2017 - 2019
 * Member of American Mathematical Society (AMS) and Society for Industrial and Applied Mathematics (SIAM)
-* Graduate Tuition Fellowship; August 2016 – May 2021
+* Graduate Tuition Fellowship; 2016 – 2021
